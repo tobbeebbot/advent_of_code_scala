@@ -1,1 +1,1 @@
-# Advent of code project in Scala using sbt
+Advent of code project in Scala using sbt
