@@ -8,5 +8,5 @@ import year2021._
     
     println(s"last entry check: ${input.lines().toArray().last}")
 
-    println(day3.part1(input))
+    println(day3.part2(input))
 }
