@@ -3,10 +3,10 @@ import year2021._
 
 @main def entry = {
     
-    val path = "inputs/2021/day5.txt"
+    val path = "inputs/2021/day6.txt"
     val input = Source.fromFile(path).mkString
     
     println(s"last entry check: ${input.lines().toArray().last}")
 
-    println(Day5.part2(input))
+    println(Day6.part2(input))
 }

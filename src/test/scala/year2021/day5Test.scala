@@ -1,7 +1,5 @@
 package year2021
 
-package year2021
-
 import org.scalatest.funsuite.AnyFunSuite
 import Day5.Point
 
